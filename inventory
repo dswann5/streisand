@@ -13,5 +13,5 @@
 # 'host_key_checking = False' line in the ansible.cfg file. That setting
 # is only sensible and convenient when connecting to a brand-new host.
 #
-# [streisand-host]
-# 255.255.255.255
+[streisand-host]
+54.152.35.5
